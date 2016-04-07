@@ -1,0 +1,7 @@
+/node_modules
+/app
+/src
+/.idea
+npm-debug.log
+.sass-cache
+/css
