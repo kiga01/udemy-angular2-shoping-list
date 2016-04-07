@@ -1,6 +1,6 @@
 # Angular 2 Udemy course 
 
-episode: attributes
+episode: shoping car
 
 ## Description
 This repository is my follow up to udemy angular 2 course
